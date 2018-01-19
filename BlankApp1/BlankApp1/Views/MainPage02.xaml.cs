@@ -12,7 +12,8 @@ namespace BlankApp1.Views
 		public MainPage02()
 		{
 			InitializeComponent ();
-        
+
+            var c = 20;
     }
 
 
