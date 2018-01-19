@@ -15,7 +15,7 @@ namespace BlankApp1.Views
 
             var c = 20;
 
-            var t = 240;
+            var t = 250;
     }
 
 
