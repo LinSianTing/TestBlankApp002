@@ -14,6 +14,8 @@ namespace BlankApp1.Views
 			InitializeComponent ();
 
             var c = 20;
+
+            var t = 230;
     }
 
 
